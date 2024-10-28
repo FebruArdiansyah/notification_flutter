@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172396271715",
+    "project_id": "pemrograman-mobile-60e80",
+    "storage_bucket": "pemrograman-mobile-60e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172396271715:android:49c4eb741f95500a134056",
+        "android_client_info": {
+          "package_name": "my.id.coba.cobafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfr2RbOJXX9jhkFXfrACBdV9a7MtmNKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172396271715:android:b0482329357a168a134056",
+        "android_client_info": {
+          "package_name": "my.id.febru.pert6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfr2RbOJXX9jhkFXfrACBdV9a7MtmNKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
